@@ -7,3 +7,5 @@ title: Technology and Society
 ## Subject::  [[Technology and Society]]
 ## Creator::  [[Deborah G. Johnson]] and [[Jameson M. Wetmore]]
 ## URL::  https://mitpress.mit.edu/books/technology-and-society-second-edition
+##
+##
