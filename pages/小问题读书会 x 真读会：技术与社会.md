@@ -17,7 +17,7 @@ permalink: socialhistoryoftechnology
 ### 但这实际是对这个概念的一个极端窄化的理解。技术与人文至少应该包括：
 #### 我们应该如何为技术设置目标
 #### 技术
-### 此次读书会挑选了
+### 此次读书会挑选了四偏
 ## 报名说明
 :PROPERTIES:
 :heading: true
