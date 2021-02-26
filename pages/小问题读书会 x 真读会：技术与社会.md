@@ -31,7 +31,7 @@ permalink: socialhistoryoftechnology
 :heading: true
 :END:
 ### 第一期：另一种科技历史
-#### 必读：[[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：导论+结论
+#### 必读：《老科技的全球史 The Shock of the Old: Technology and Global History since 1900》：导论+结论
 #### 选读：[Heroes, Herds and Hysteresis in Technological History: Thomas Edison and ‘The Battle of the Systems’ Reconsidered](https://academic.oup.com/icc/article-abstract/1/1/129/753645)
 ### 第二期：人造物的政治
 #### [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1)
