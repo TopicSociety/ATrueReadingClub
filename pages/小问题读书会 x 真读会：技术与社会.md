@@ -32,6 +32,7 @@ permalink: socialhistoryoftechnology
 :END:
 ### 第一期：另一种科技历史
 #### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：导论+结论
+#### [Heroes, Herds and Hysteresis in Technological History: Thomas Edison and ‘The Battle of the Systems’ Reconsidered](https://academic.oup.com/icc/article-abstract/1/1/129/753645)
 ### 第二期：人造物的政治
 #### [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1)
 ##### http://www.xml-data.org/KXYSH/html/503286a8-f60c-43f3-9ef9-36e29a7946f2.htm
@@ -45,7 +46,6 @@ permalink: socialhistoryoftechnology
 ### [[技术的本质]]
 ### [[Technology and Society]]
 ### [A Discontinuity Model of Technological Change: Catastrophe Theory and Network Structure](https://link.springer.com/article/10.1007/s10614-016-9609-9)
-### [Heroes, Herds and Hysteresis in Technological History: Thomas Edison and ‘The Battle of the Systems’ Reconsidered](https://academic.oup.com/icc/article-abstract/1/1/129/753645)
 ### [A social history of technology - The Statesman](https://www.thestatesman.com/books-education/a-social-history-of-technology-1495311475.html)
 ### [Technology as a Subject for Ethics](https://philpapers.org/rec/JONTAA-3)
 ### 科技能驱动历史吗？科技决定论的困境.
