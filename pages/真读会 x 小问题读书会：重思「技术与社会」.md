@@ -23,6 +23,7 @@ permalink: socialhistoryoftechnology
 :END:
 ### 适合人群：
 ### 阅读目标：了解技术，建立问题意识。
+###
 ## 书目
 :PROPERTIES:
 :heading: true
