@@ -27,7 +27,7 @@ permalink: socialhistoryoftechnology
 ### 共读人数：4-8人
 ### 参与要求：欢迎任何人报名，但因为人数有限，请在报名前确定自己可以全程参与。
 ### 招募方式：请发送报名邮件到 topic.society@gmail.com。
-### 读书会日期：
+### 读书会期：
 ## 阅读篇目
 :PROPERTIES:
 :heading: true
