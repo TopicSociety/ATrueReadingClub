@@ -26,7 +26,7 @@ permalink: socialhistoryoftechnology
 ### 招募人数：4-8人
 ### 招募方式：请发送
 ### 读书会日期：
-## 书目
+## 阅读篇目
 :PROPERTIES:
 :heading: true
 :END:
