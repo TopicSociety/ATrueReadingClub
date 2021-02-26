@@ -45,7 +45,7 @@ permalink: socialhistoryoftechnology
 ##### Moralizing technology
 ### 第四期：代码就是法律
 #### 必读：Code is Law
-#### 选读
+#### 选读：
 ###
 ### [[技术的本质]]
 ### [[Technology and Society]]
