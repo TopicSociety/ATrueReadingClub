@@ -30,7 +30,7 @@ permalink: socialhistoryoftechnology
 :PROPERTIES:
 :heading: true
 :END:
-### 第一期
+### 第一期：科技发展史
 #### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：导论+结论
 ### 第二期
 #### [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1)
