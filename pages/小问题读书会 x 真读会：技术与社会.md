@@ -38,6 +38,8 @@ permalink: socialhistoryoftechnology
 ##### https://www.jianshu.com/p/eafaf9a376b6
 ##### https://www.xzbu.com/1/view-11098010.htm
 ### 第三期
+#### 科技伦理与技术物的道德化
+##### Moralizing technology
 ####
 ### [[技术的本质]]
 ### [[Technology and Society]]
@@ -46,8 +48,6 @@ permalink: socialhistoryoftechnology
 ### [A social history of technology - The Statesman](https://www.thestatesman.com/books-education/a-social-history-of-technology-1495311475.html)
 ### [Technology as a Subject for Ethics](https://philpapers.org/rec/JONTAA-3)
 ### 科技能驱动历史吗？科技决定论的困境.
-### 科技伦理与技术物的道德化
-#### Moralizing technology
 ### 技术的发展不是纯粹的技术问题，而是在一定的政治与社会语境中被提出的
 ### [[会写代码的法官]]
 ### [一切都被慈爱的机器注视着 All Watched Over by Machines of Loving Grace](https://movie.douban.com/subject/6754666/)
