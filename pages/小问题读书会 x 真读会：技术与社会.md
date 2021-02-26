@@ -43,7 +43,8 @@ permalink: socialhistoryoftechnology
 ### 第三期：科技伦理
 #### 《道德物化及其批判七人谈》
 ##### Moralizing technology
-### 第四期：
+### 第四期：代码就是法律
+####
 ###
 ### [[技术的本质]]
 ### [[Technology and Society]]
