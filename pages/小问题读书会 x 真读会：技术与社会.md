@@ -22,7 +22,6 @@ permalink: socialhistoryoftechnology
 :PROPERTIES:
 :heading: true
 :END:
-###
 ### 阅读目标：了解技术发展背后的社会历史，建立有关技术的问题意识。
 ### 共读人数：4-8人
 ### 参与要求：欢迎任何人报名，但因为人数有限，请在报名前确定自己可以全程参与。
