@@ -44,7 +44,7 @@ permalink: socialhistoryoftechnology
 #### 必读：《道德物化及其批判七人谈》
 ##### Moralizing technology
 ### 第四期：代码就是法律
-#### 必读：《代码
+#### 必读：《代码 2.0》：第一章
 #### 选读：
 ###
 ### [[技术的本质]]
