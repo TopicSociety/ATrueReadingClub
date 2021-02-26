@@ -31,9 +31,7 @@ permalink: socialhistoryoftechnology
 :heading: true
 :END:
 ### 第一期
-#### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：
-#### 导论
-#### 结论
+#### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：导论+结论
 ### [[技术的本质]]
 ### [[Technology and Society]]
 ### [A Discontinuity Model of Technological Change: Catastrophe Theory and Network Structure](https://link.springer.com/article/10.1007/s10614-016-9609-9)
