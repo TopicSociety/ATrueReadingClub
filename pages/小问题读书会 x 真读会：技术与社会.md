@@ -42,7 +42,7 @@ permalink: socialhistoryoftechnology
 ##### https://www.xzbu.com/1/view-11098010.htm
 ### 第三期：科技伦理
 #### 必读：《道德物化及其批判七人谈》
-##### Moralizing technology
+#### 选读：Moralizing technology
 ### 第四期：代码就是法律
 #### 必读：《代码 2.0》：第一章
 #### 选读：
