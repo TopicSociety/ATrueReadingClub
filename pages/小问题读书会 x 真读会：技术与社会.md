@@ -37,7 +37,7 @@ permalink: socialhistoryoftechnology
 ##### http://www.xml-data.org/KXYSH/html/503286a8-f60c-43f3-9ef9-36e29a7946f2.htm
 ##### https://www.jianshu.com/p/eafaf9a376b6
 ##### https://www.xzbu.com/1/view-11098010.htm
-### 第三期
+### 第三期：科技伦理
 #### 科技伦理与技术物的道德化
 ##### Moralizing technology
 ####
