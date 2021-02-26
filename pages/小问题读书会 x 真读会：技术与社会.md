@@ -30,8 +30,8 @@ permalink: socialhistoryoftechnology
 :PROPERTIES:
 :heading: true
 :END:
-### 第一次：
-#### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]
+### 第一期
+#### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：
 #### 导论
 #### 结论
 ### [[技术的本质]]
