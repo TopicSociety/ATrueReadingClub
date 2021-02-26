@@ -40,7 +40,8 @@ permalink: socialhistoryoftechnology
 ### 第三期：科技伦理
 #### 科技伦理与技术物的道德化
 ##### Moralizing technology
-####
+### 第四期：
+###
 ### [[技术的本质]]
 ### [[Technology and Society]]
 ### [A Discontinuity Model of Technological Change: Catastrophe Theory and Network Structure](https://link.springer.com/article/10.1007/s10614-016-9609-9)
