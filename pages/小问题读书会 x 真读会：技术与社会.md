@@ -17,7 +17,7 @@ permalink: socialhistoryoftechnology
 #### 我们应该如何为技术设置目标
 #### 技术
 ### 这个除了科技的发明史，
-## 招募说明
+## 报名说明
 :PROPERTIES:
 :heading: true
 :END:
