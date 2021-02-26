@@ -25,6 +25,7 @@ permalink: socialhistoryoftechnology
 ### 阅读目标：了解技术，建立问题意识。
 ### 招募人数：4-8人
 ### 招募方式：请发送
+### 读书会日期：
 ## 书目
 :PROPERTIES:
 :heading: true
