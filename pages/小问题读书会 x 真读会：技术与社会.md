@@ -22,7 +22,7 @@ permalink: socialhistoryoftechnology
 :PROPERTIES:
 :heading: true
 :END:
-### 适合人群：既不愿意毫无保留地拥抱技术，也不想做的保守派，
+### 适合人群：既不愿意毫无保留地拥抱所有技术，也不想做保守派，
 ### 阅读目标：了解技术，建立问题意识。
 ### 招募人数：4-8人
 ### 招募方式：请发送
