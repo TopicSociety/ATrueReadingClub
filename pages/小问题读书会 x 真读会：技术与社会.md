@@ -1,5 +1,5 @@
 ---
-title: 真读会 x 小问题读书会：重思「技术与社会」
+title: 小问题读书会 x 真读会：技术与社会
 published: false
 permalink: socialhistoryoftechnology
 ---
