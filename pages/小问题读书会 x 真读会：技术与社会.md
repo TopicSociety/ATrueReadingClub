@@ -33,6 +33,11 @@ permalink: socialhistoryoftechnology
 ### 第一期
 #### [[老科技的全球史 The Shock of the Old: Technology and Global History since 1900]]：导论+结论
 ### 第二期
+#### [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1)
+##### http://www.xml-data.org/KXYSH/html/503286a8-f60c-43f3-9ef9-36e29a7946f2.htm
+##### https://www.jianshu.com/p/eafaf9a376b6
+##### https://www.xzbu.com/1/view-11098010.htm
+### 第三期
 ####
 ### [[技术的本质]]
 ### [[Technology and Society]]
@@ -40,10 +45,6 @@ permalink: socialhistoryoftechnology
 ### [Heroes, Herds and Hysteresis in Technological History: Thomas Edison and ‘The Battle of the Systems’ Reconsidered](https://academic.oup.com/icc/article-abstract/1/1/129/753645)
 ### [A social history of technology - The Statesman](https://www.thestatesman.com/books-education/a-social-history-of-technology-1495311475.html)
 ### [Technology as a Subject for Ethics](https://philpapers.org/rec/JONTAA-3)
-### [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1)
-#### http://www.xml-data.org/KXYSH/html/503286a8-f60c-43f3-9ef9-36e29a7946f2.htm
-#### https://www.jianshu.com/p/eafaf9a376b6
-#### https://www.xzbu.com/1/view-11098010.htm
 ### 科技能驱动历史吗？科技决定论的困境.
 ### 科技伦理与技术物的道德化
 #### Moralizing technology
