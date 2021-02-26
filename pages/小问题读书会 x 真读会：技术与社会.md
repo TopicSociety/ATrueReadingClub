@@ -46,7 +46,7 @@ permalink: socialhistoryoftechnology
 ### 第四期：代码就是法律
 #### 必读：《代码 2.0》：第一章
 #### 选读：
-### Bonus：
+### Bonus：[一切都被慈爱的机器注视着 All Watched Over by Machines of Loving Grace](https://movie.douban.com/subject/6754666/) 放映
 ### [[技术的本质]]
 ### [[Technology and Society]]
 ### [A Discontinuity Model of Technological Change: Catastrophe Theory and Network Structure](https://link.springer.com/article/10.1007/s10614-016-9609-9)
